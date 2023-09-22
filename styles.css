@@ -1,0 +1,10 @@
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: burlywood;
+}
+
+#fall-image {
+    height: auto;
+    width: 300px;
+}
